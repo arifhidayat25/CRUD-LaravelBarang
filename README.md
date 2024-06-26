@@ -3,7 +3,7 @@
 
 ## Laravel CRUD Barang
 
-<pCRUD Laravel Inventory Barang<br> <br></p>
+<p>CRUD Laravel Inventory Barang<br> <br></p>
 
 ### Dibutuhkan
 
